@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 
 function AboutMe({ currentView, setCurrentView }) {
   return (
-    <div>
+    <div className='about-section'>
     <h1>{currentView}</h1>
     {/* <img
         src="https://avatars.dicebear.com/api/female/jane.svg"

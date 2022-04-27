@@ -1,5 +1,5 @@
 header {
-  background-color: #457b9d;
+  background-color: #122136;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -7,7 +7,7 @@ header {
 }
 
 header h1 {
-  color: white;
+  color: #57e3ff;
 }
 
 header nav {
