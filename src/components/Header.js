@@ -1,11 +1,15 @@
 import React, { useState } from 'react';
 import Nav from './Nav';
 
-function Header() {
+function Header({ currentView, setCurrentView }) {
+  console.log(currentView)
   return (
     <div>
-      <h1>Header</h1>
-      <Nav />
+      <h1>{currentView}</h1>
+      <Nav 
+        currentView={currentView}
+        setCurrentView={setCurrentView}
+      />
     </div>
   )
 }
