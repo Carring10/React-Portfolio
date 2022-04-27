@@ -1,0 +1,30 @@
+header {
+  background-color: #457b9d;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 25px;
+}
+
+header h1 {
+  color: white;
+}
+
+header nav {
+  display: flex;
+  gap: 25px;
+}
+
+nav a {
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+}
+
+nav a.selected {
+  text-shadow: 2px 2px 8px white;
+}
+
+nav a:hover {
+  text-shadow: 2px 2px 8px white;
+}

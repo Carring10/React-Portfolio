@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import Content from './components/Content';
 import Footer from './components/Footer';
-import Header from './components/Header';
+import Header from './components/Header/Header';
 
 function App() {
   const [currentView, setCurrentView] = useState('About Me');
