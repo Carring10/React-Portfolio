@@ -29,7 +29,9 @@ function App() {
         currentView={currentView}
         setCurrentView={setCurrentView}
       />
-      <Content />
+      <Content
+        currentView={currentView}
+        setCurrentView={setCurrentView} />
       <Footer />
     </div>
   );
