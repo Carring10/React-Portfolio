@@ -30,16 +30,19 @@ function ContactMe({ currentView, setCurrentView }) {
         <p>Name:</p>
         <input
           type="text"
+          required
         />
         <p>Email:</p>
         <input
           name="email"
           type="email"
           onChange={handleInputChange}
+          required
         />
         <p>Message:</p>
         <input
           type="text"
+          required
         />
         <button type="button" onClick={handleFormSubmit}>Submit</button>
       </form>

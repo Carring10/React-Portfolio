@@ -6,7 +6,6 @@
 .project-list .text-box {
   position: absolute;
   z-index: 2;
-  /* width: 100%; */
   bottom: 0;
   display: flex;
   padding: 15px;

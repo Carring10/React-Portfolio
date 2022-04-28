@@ -2,4 +2,17 @@ footer {
   display: flex;
   justify-content: center;
   padding-bottom: 20px;
+  gap: 20px;
+}
+
+.github-icon {
+  width: 50px;
+}
+
+.stackoverflow-icon {
+  width: 200px;
+}
+
+.linkedin-icon {
+  width: 50px;
 }
