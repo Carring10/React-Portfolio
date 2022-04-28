@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import AboutMe from './AboutMe';
-import ContactMe from './ContactMe';
-import Portfolio from './Portfolio';
+import ContactMe from './Form/ContactMe';
+import Portfolio from './Portfolio/Portfolio';
 import Resume from './Resume';
 
 function Content({ currentView, setCurrentView }) {
@@ -12,6 +12,7 @@ function Content({ currentView, setCurrentView }) {
       display: 'flex',
       flexDirection: 'column',
       gap: '25px',
+      minHeight: '100%',
     }}>
       {currentView === 'About Me' &&
         <AboutMe
@@ -37,7 +38,6 @@ function Content({ currentView, setCurrentView }) {
           setCurrentView={setCurrentView}
         />
       }
-
     </main>
   )
 };
