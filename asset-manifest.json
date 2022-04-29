@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.fbef5e81.css",
-    "main.js": "/react-portfolio/static/js/main.56d9c4d4.js",
-    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
-    "static/media/international-dishes.png": "/react-portfolio/static/media/international-dishes.b695a5ea03b6833b9f96.png",
-    "static/media/Weather-api.png": "/react-portfolio/static/media/Weather-api.2a59e8081651c0fa0d22.png",
-    "static/media/password-generator.png": "/react-portfolio/static/media/password-generator.bdf48fa5abf0e7557558.png",
-    "static/media/tech-blog.png": "/react-portfolio/static/media/tech-blog.452f5fe5d0cac51246f2.png",
-    "static/media/profile-placeholder.png": "/react-portfolio/static/media/profile-placeholder.c8bc1744dcf725d007d3.png",
-    "static/media/portfolio.png": "/react-portfolio/static/media/portfolio.45cdd58a4702dbddfdd1.png",
-    "static/media/Day-Planner.png": "/react-portfolio/static/media/Day-Planner.56bf01d50e962635669a.png",
-    "static/media/logo-stackoverflow.png": "/react-portfolio/static/media/logo-stackoverflow.dfc749b07ed72cd81bd5.png",
-    "index.html": "/react-portfolio/index.html",
-    "main.fbef5e81.css.map": "/react-portfolio/static/css/main.fbef5e81.css.map",
-    "main.56d9c4d4.js.map": "/react-portfolio/static/js/main.56d9c4d4.js.map",
-    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/React-Portfolio/static/css/main.fbef5e81.css",
+    "main.js": "/React-Portfolio/static/js/main.38b3507c.js",
+    "static/js/787.a2cb61a6.chunk.js": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/international-dishes.png": "/React-Portfolio/static/media/international-dishes.b695a5ea03b6833b9f96.png",
+    "static/media/Weather-api.png": "/React-Portfolio/static/media/Weather-api.2a59e8081651c0fa0d22.png",
+    "static/media/password-generator.png": "/React-Portfolio/static/media/password-generator.bdf48fa5abf0e7557558.png",
+    "static/media/tech-blog.png": "/React-Portfolio/static/media/tech-blog.452f5fe5d0cac51246f2.png",
+    "static/media/profile-placeholder.png": "/React-Portfolio/static/media/profile-placeholder.c8bc1744dcf725d007d3.png",
+    "static/media/portfolio.png": "/React-Portfolio/static/media/portfolio.45cdd58a4702dbddfdd1.png",
+    "static/media/Day-Planner.png": "/React-Portfolio/static/media/Day-Planner.56bf01d50e962635669a.png",
+    "static/media/logo-stackoverflow.png": "/React-Portfolio/static/media/logo-stackoverflow.dfc749b07ed72cd81bd5.png",
+    "index.html": "/React-Portfolio/index.html",
+    "main.fbef5e81.css.map": "/React-Portfolio/static/css/main.fbef5e81.css.map",
+    "main.38b3507c.js.map": "/React-Portfolio/static/js/main.38b3507c.js.map",
+    "787.a2cb61a6.chunk.js.map": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fbef5e81.css",
-    "static/js/main.56d9c4d4.js"
+    "static/js/main.38b3507c.js"
   ]
 }
