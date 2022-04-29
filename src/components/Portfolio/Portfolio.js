@@ -13,7 +13,6 @@ function Portfolio({ currentView, setCurrentView }) {
   return (
     <>
       <h1>{currentView}</h1>
-      <p>Applications</p>
       <div className='project-list'>
         <Project
           name='Tech Blog'

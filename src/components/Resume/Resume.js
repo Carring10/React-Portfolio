@@ -1,10 +1,10 @@
 import React, { useState } from 'react';
+import './Resume.css'
 
 function Resume({ currentView, setCurrentView }) {
   return (
     <>
     <h1>{currentView}</h1>
-    <p>Proficiencies:</p>
     <ul>
       <li>HTML</li>
       <li>CSS</li>
